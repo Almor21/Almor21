@@ -19,7 +19,7 @@
 
 ###
 
-I am Fullstack Web Developer and systems engineering student with strong frontend and backend skills. I am passionate about creating innovative and elegant  solutions ✨ using modern technologies such as TypeScript, Next.js and Nest.js 🚀.<br/>
+I am Fullstack Web Developer with a degree in Systems Engineering with strong frontend and backend skills. I am passionate about creating innovative and elegant  solutions ✨ using modern technologies such as TypeScript, Next.js and Nest.js 🚀.<br/>
   For more information about my work and projects, feel free to visit my website [edinsonnoriega](https://edinsonnoriega.vercel.app/) 🌟. I’m always happy to connect and share more about what I do!
   
 ###
